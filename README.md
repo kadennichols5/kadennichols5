@@ -1,7 +1,6 @@
-## Hi there 👋
 <h1>Hi, I'm Kaden! </h1>
 
-<h2>👨‍💻 Data Science Projects:</h2>
+<h2>Data Science Projects:</h2>
 
 - <b>Database Systems</b>
   - [SQL](link)
