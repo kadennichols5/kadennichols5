@@ -5,7 +5,7 @@
 - <b>Database Systems</b>
   - [SQL](https://github.com/kadennichols5/sql_db_proj)
   - [MongoDB](https://github.com/kadennichols5/mongo_db)
-  - [Neo4j](link)
+  - [Neo4j]([link](https://github.com/kadennichols5/neo4j))
 - <b>Machine Learning<b>
   - [Central Coast Shallow Water Conditions](link)
 - <b>Time Series Analysis </b>
