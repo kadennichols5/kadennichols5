@@ -3,7 +3,7 @@
 <h2>Data Science Projects:</h2>
 
 - <b>Database Systems</b>
-  - [SQL](link)
+  - [SQL](https://github.com/kadennichols5/sql_db_proj)
   - [MongoDB](link)
   - [Neo4j](link)
 - <b>Machine Learning<b>
