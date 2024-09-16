@@ -9,7 +9,7 @@
 - <b>Machine Learning<b>
   - [Central Coast Shallow Water Conditions](link)
 - <b>Time Series Analysis </b>
-  - [Central Coast Water Temperature Forecast](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Central Coast Water Temperature Forecast]()
   
 
 
