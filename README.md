@@ -11,7 +11,7 @@
 - <b>Time Series Analysis </b>
   - [Central Coast Water Temperature Forecast](https://github.com/kadennichols5/Central-Coast-Water-Temp-Time-Series-Analysis)
 - <b>Regression Modeling </b>
-  -[Predicting Quality of Life/Life Ladder](https://github.com/kadennichols5/Predicting-Life-Ladder)
+  - [Predicting Quality of Life/Life Ladder](https://github.com/kadennichols5/Predicting-Life-Ladder)
 
 
 <h2> 🤳 Connect with me:</h2>
