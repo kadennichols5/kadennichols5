@@ -7,7 +7,7 @@
   - [MongoDB](https://github.com/kadennichols5/mongo_db)
   - [Neo4j](https://github.com/kadennichols5/neo4j)
 - <b>Machine Learning<b>
-  - [Central Coast Shallow Water Conditions](link)
+  - [Central Coast Shallow Water Conditions](https://github.com/kadennichols5/South-Coast-Temp-Machine-Learning)
 - <b>Time Series Analysis </b>
   - [Central Coast Water Temperature Forecast](https://github.com/kadennichols5/Central-Coast-Water-Temp-Time-Series-Analysis)
 - <b>Regression Modeling </b>
