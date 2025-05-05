@@ -1,21 +1,28 @@
-<h1>Hi, I'm Kaden! </h1>
+# 👋 Hi, I'm Kaden!
 
-<h2>Data Science Projects:</h2>
+I'm a data enthusiast with a background in **Applied Statistics** and **Physics**, passionate about building practical, data-driven solutions. Below are some of the projects I've worked on — spanning databases, machine learning, time series forecasting, and regression modeling.
 
-- <b>Database Systems</b>
-  - [SQL- Simulated Pharmacy Database](https://github.com/kadennichols5/Simulated-Pharmacy-DB)
-  - [MongoDB - Simulated Blog Site](https://github.com/kadennichols5/Simulated-Blog-Site)
-  - [Neo4j - Cinema Relationships](https://github.com/kadennichols5/Cinema-Site)
-- <b>Machine Learning<b>
-  - [Predicting Santa Barbara Water Temperature](https://github.com/kadennichols5/South-Coast-Temp-Machine-Learning)
-- <b>Time Series Analysis </b>
-  - [Forecasting Central Coast Water Temperature](https://github.com/kadennichols5/Central-Coast-Water-Temp-Time-Series-Analysis)
-- <b>Regression Modeling </b>
-  - [Predicting Quality of Life/Life Ladder](https://github.com/kadennichols5/Predicting-Life-Ladder)
+---
 
+## 🧠 Projects
 
-<h2> 🤳 Connect with me:</h2>
+### 💾 Database Systems
+- 🧮 [SQL – Simulated Pharmacy Database](https://github.com/kadennichols5/Simulated-Pharmacy-DB): Designed a relational database to model pharmacy operations, supporting prescriptions, inventory, and user records.
+- 📝 [MongoDB – Simulated Blog Site](https://github.com/kadennichols5/Simulated-Blog-Site): Built a flexible NoSQL blog platform using MongoDB with dynamic author-post relationships.
+- 🎬 [Neo4j – Cinema Relationships](https://github.com/kadennichols5/Cinema-Site): Modeled complex movie and actor relationships with graph databases.
 
+### 🤖 Machine Learning
+- 🌊 [Predicting Santa Barbara Water Temperature](https://github.com/kadennichols5/South-Coast-Temp-Machine-Learning): Leveraged NOAA buoy data to predict local ocean temperatures using supervised learning models.
+
+### 📈 Time Series Analysis
+- 🌁 [Forecasting Central Coast Water Temperature](https://github.com/kadennichols5/Central-Coast-Water-Temp-Time-Series-Analysis): Developed ARIMA and SARIMA models for temperature forecasting.
+
+### 📊 Regression Modeling
+- 🌍 [Predicting Quality of Life (Life Ladder)](https://github.com/kadennichols5/Predicting-Life-Ladder): Built regression models to estimate national happiness scores from key socio-economic indicators.
+
+---
+
+## 🤝 Connect with Me
 
 [<img align="left" alt="KadenNichols | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
