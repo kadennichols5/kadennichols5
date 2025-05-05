@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kaden!
 
-I'm a data enthusiast with a background in **Applied Statistics** and **Physics**, passionate about building practical, data-driven solutions. Below are some of the projects I've worked on — spanning databases, machine learning, time series forecasting, and regression modeling.
+I'm a data enthusiast with a background in Statistics and Physics, passionate about building practical, data-driven solutions — and equally drawn to modeling the natural systems I encounter and learn about. Whether it's forecasting time series, designing regression models, or exploring physical phenomena through data, I enjoy bridging theory and experience through thoughtful analysis. Below are some of the projects I've worked on — spanning databases, machine learning, forecasting, and more.
 
 ---
 
