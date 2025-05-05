@@ -3,9 +3,9 @@
 <h2>Data Science Projects:</h2>
 
 - <b>Database Systems</b>
-  - [SQL](https://github.com/kadennichols5/sql_db_proj)
-  - [MongoDB](https://github.com/kadennichols5/mongo_db)
-  - [Neo4j](https://github.com/kadennichols5/neo4j)
+  - [SQL- Simulated Pharmacy Database](https://github.com/kadennichols5/Simulated-Pharmacy-DB)
+  - [MongoDB - Simulated Blog Site](https://github.com/kadennichols5/Simulated-Blog-Site)
+  - [Neo4j - Cinema Relationships](https://github.com/kadennichols5/Cinema-Site)
 - <b>Machine Learning<b>
   - [Predicting Santa Barbara Water Temperature](https://github.com/kadennichols5/South-Coast-Temp-Machine-Learning)
 - <b>Time Series Analysis </b>
@@ -21,17 +21,3 @@
 
 [linkedin]: https://linkedin.com/in/kadensnichols
 
-<!--
-**kadennichols5/kadennichols5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
