@@ -1,10 +1,39 @@
 # 👋 Hi, I'm Kaden!
 
-I'm a data enthusiast with a background in Statistics and Physics, passionate about building practical, data-driven solutions — and equally drawn to modeling the natural systems I encounter and learn about. Whether it's forecasting time series, designing regression models, or exploring physical phenomena through data, I enjoy bridging theory and experience through thoughtful analysis. Below are some of the projects I've worked on — spanning databases, machine learning, forecasting, and more.
+I'm a passionate technologist with a background in Statistics and Physics. I love building practical, data-driven solutions that bridge theory and experience. Below are some of the projects I've worked on, incorporating machine learning, time series, databases, advanced analytics, and innovative visualization systems. 
 
 ---
+## 🎵 Featured Project: [Synesthetic Music Visualization Project](https://github.com/kadennichols5/synthProj/tree/main)
+An end-to-end system that converts music into immersive, real-time 3D visualizations using advanced audio analysis and dynamic rendering.
 
-## 🧠 Projects
+### Live Demo
+<p align="center">
+  <img src="[Music Visualization Demo](https://github.com/kadennichols5/synthProj/blob/main/assets/synthProjSample.gif)" alt="Music Visualization Demo" width="800">
+
+*Real-time 3D visualization with independent stem rendering*
+
+**Color Mapping:** Bass (Black) • Drums (Green) • Vocals (Yellow) • Guitar (Pink)
+</p>
+
+### Key Components
+
+- Audio Processing Pipeline: Segments raw audio files into 4 stems - Bass, Drums, Vocals, and Guitar*
+- Signal Processing/Spectral Analysis: Converts audio to frequency-domain data using STFT
+- Neural Network: NN maps spectral features to visual parameters
+- Real Time Visualization: Unity renders dynamic 3D visuals that respond to music in real time
+
+<sub>*Note: Demucs' "other" stem classification was intentionally mapped to guitar through curated song selection for control.</sub>
+
+---
+## Technical Stack 
+- Languages: Python, R, SQL, C#, TypeScript, JavaScript, MATLAB
+- ML/Data Science: PyTorch, Scikit-learn, Pandas, NumPy, SciPy, Statsmodels, tidyverse
+- Databases: PostgreSQL, MongoDB, Neo4j
+- Visualization: Tableau, Matplotlib, Unity
+- Cloud & Tools: AWS, GCP, Git, Jupyter
+
+
+## 🧠 Other Projects
 
 ### 💾 Database Systems
 - 🧮 [SQL – Simulated Pharmacy Database](https://github.com/kadennichols5/Simulated-Pharmacy-DB): Designed a relational database to model pharmacy operations, supporting prescriptions, inventory, and user records.
