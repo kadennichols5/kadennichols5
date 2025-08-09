@@ -8,7 +8,9 @@ An end-to-end system that converts music into immersive, real-time 3D visualizat
 
 ### Live Demo
 <p align="center">
-  <img src="[Music Visualization Demo](https://github.com/kadennichols5/synthProj/blob/main/assets/synthProjSample.gif)" alt="Music Visualization Demo" width="800">
+  <img src="https://github.com/kadennichols5/synthProj/blob/main/assets/synthProjSample.gif" alt="Music Visualization Demo" width="600">
+</p>
+
 
 *Real-time 3D visualization with independent stem rendering*
 
