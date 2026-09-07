@@ -3,7 +3,7 @@
 I'm a passionate technologist with a background in Statistics and Physics. I love building practical, data-driven solutions that bridge theory and experience. Below are some of the projects I've worked on, incorporating machine learning, time series, databases, advanced analytics, and innovative visualization systems. 
 
 ---
-## 🎵 Featured Project: [Synesthetic Music Visualization Project](https://github.com/kadennichols5/synthProj/tree/main)
+## 🎵 Featured Project: [Music Visualization Project](https://github.com/kadennichols5/synthProj/tree/main)
 An end-to-end system that converts music into immersive, real-time 3D visualizations using advanced audio analysis and dynamic rendering.
 
 ### Live Demo
