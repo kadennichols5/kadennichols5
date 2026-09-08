@@ -25,7 +25,7 @@ GTM engineer building at the intersection of sales infrastructure, AI systems, a
 - A neural network maps spectral features to visual parameters
 - Unity renders the output in real time, synced to playback
 
-<sub>*Demucs' "other" stem was intentionally mapped to guitar via curated song selection for control.</sub>
+<sub>*Demucs' "other" stem was intentionally mapped to guitar through dataset curation — songs were selected specifically to make that classification reliable.</sub>
 
 ---
 
