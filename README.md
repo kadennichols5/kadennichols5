@@ -20,19 +20,7 @@ Currently GTME-ing in stealth.
   <img src="https://github.com/kadennichols5/synthProj/blob/main/assets/synthProjSample.gif" alt="Music Visualization Demo" width="600">
 </p>
 
-*Bass (black) · Drums (green) · Vocals (yellow) · Guitar (pink)*
-
-
----
-
-## Technical Stack
-
-**Languages:** Python, TypeScript, SQL, C#, JavaScript
-**ML/Data:** PyTorch, Scikit-learn, Pandas, NumPy
-**Databases:** PostgreSQL, MongoDB, Neo4j
-**Infra/Tools:** AWS, GCP, Git
-
----
+<!--*Bass (black) · Drums (green) · Vocals (yellow) · Guitar (pink)*-->
 
 ## Connect
 
