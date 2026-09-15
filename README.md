@@ -1,7 +1,8 @@
 # Kaden Nichols
 
-GTM engineer building at the intersection of sales infrastructure, AI systems, and applied ML. Background in Statistics and Physics. Previously Founder at Cached, Inc.; Solutions Architect at Duffl (hyper-local marketplace); and Founding Enterprise BDR at Bland AI (end-to-end voice AI ecosystem). Now building GTM engineering systems and a technical portfolio around agents, data pipelines, and go-to-market architecture.
+GTM operator building at the intersection of consumer systems, data infrastructure, and GTM architecture. Background in Data Science and Physics. Previously Founded Cached, Inc.; Technical Staff at Duffl; Founding Enterprise BDR at Bland AI. 
 
+Currently GTME-ing in stealth.
 ---
 
 ## Featured Work
