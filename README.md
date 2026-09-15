@@ -3,6 +3,7 @@
 GTM operator building at the intersection of consumer systems, data infrastructure, and GTM architecture. Background in Data Science and Physics. Previously Founded Cached, Inc.; Technical Staff at Duffl; Founding Enterprise BDR at Bland AI. 
 
 Currently GTME-ing in stealth.
+
 ---
 
 ## Featured Work
